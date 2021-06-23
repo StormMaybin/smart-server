@@ -45,7 +45,7 @@
     </developers>
 
     <properties>
-        <jetty.version>9.2.22.v20170606</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <jackson.version>1.9.13</jackson.version>
         <javax-mail.version>1.6.0</javax-mail.version>
         <commons-collections.version>3.2.1</commons-collections.version>
